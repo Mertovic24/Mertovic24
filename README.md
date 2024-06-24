@@ -1,4 +1,3 @@
-https://cdn.dribbble.com/users/3679/screenshots/3247151/media/4e5d839efaf851ea44f626933079d4d2.png
 <h1 align="center">Hi 👋, I'm Berat Mert Çiğdem</h1>
 <h3 align="center">A passionate game developer and student from Türkiye</h3>
 
